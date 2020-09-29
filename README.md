@@ -8,3 +8,7 @@ By analyzing data and building a classifier to predict successfulness of campaig
 The target variable for this specific business case will be if the kickstarter campaign was successful or if it failed. 
 
 data source: https://www.kaggle.com/kemical/kickstarter-projects 
+
+Files: 
+
+EDA: This file contains all the exploratory data analysis and data cleaning. 
