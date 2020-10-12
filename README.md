@@ -12,3 +12,5 @@ data source: https://www.kaggle.com/kemical/kickstarter-projects
 Files: 
 
 EDA: This file contains all the exploratory data analysis and data cleaning. 
+
+Disclaimer: This project has no association with the Kickstarter Company. The data was obtained from Kaggle, and all insights and reccomendations are for educational/learning purposes only. 
